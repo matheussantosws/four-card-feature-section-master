@@ -46,6 +46,7 @@
     padding-left: 9%;
     padding-top: 5%;
     margin-block-end: 10%;
+    border-radius: 10px 10px 10px 10px;
 }
 
 .subsuper{
@@ -66,6 +67,7 @@
     padding-left: 9%;
     padding-top: 5%;
     margin-block-end: 10%;
+    border-radius: 10px 10px 10px 10px;
 }
 
 .subteam{
@@ -86,6 +88,7 @@
     padding-left: 9%;
     padding-top: 5%;
     margin-block-end: 10%;
+    border-radius: 10px 10px 10px 10px;
 }
 
 .subkar{
@@ -106,6 +109,7 @@
     padding-left: 9%;
     padding-top: 5%;
     margin-block-end: 10%;
+    border-radius: 10px 10px 10px 10px;
 }
 
 .subcalc {
@@ -116,4 +120,12 @@
     margin-top: 15%;
     margin-left: 73%;
     margin-block-end: 10%;
+}
+
+/*Tablet*/
+
+@media (min-width: 480px) {
+    .card {
+        padding: 11%;
+    }
 }
