@@ -1,0 +1,119 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+/*Cor para todos os <h2>*/
+.cor {
+    font-weight: 600;
+    color: black;
+}
+
+/*Header*/
+.container {
+    background-color: hsl(0, 20%, 95%);
+}
+
+.card {
+    padding: 7%;
+}   
+
+.info {
+    margin-block-end: 15%;
+    text-align: center;
+}
+
+.title{
+    font-weight: 200;
+}
+
+.title2{
+    font-weight: 600;
+}
+
+.sub {
+    color:hsl(234, 12%, 34%);
+    margin-top: 10%;
+}
+
+/*Main*/
+
+/*Primeiro Container Supervisor*/
+.super {
+    background-color:white;
+    color:hsl(234, 12%, 34%);
+    font-size: 15px;
+    padding-left: 9%;
+    padding-top: 5%;
+    margin-block-end: 10%;
+}
+
+.subsuper{
+    margin-top: 5%;
+}
+
+.lupa {
+    margin-top: 15%;
+    margin-left: 73%;
+    margin-block-end: 10%;
+}
+
+/*Segundo Container TEAM*/
+.team {
+    background-color:white;
+    color:hsl(234, 12%, 34%);
+    font-size: 15px;
+    padding-left: 9%;
+    padding-top: 5%;
+    margin-block-end: 10%;
+}
+
+.subteam{
+    margin-top: 5%;
+}
+
+.home {
+    margin-top: 15%;
+    margin-left: 73%;
+    margin-block-end: 10%;
+}
+
+/*Terceiro Container Karma*/
+.kar {
+    background-color:white;
+    color:hsl(234, 12%, 34%);
+    font-size: 15px;
+    padding-left: 9%;
+    padding-top: 5%;
+    margin-block-end: 10%;
+}
+
+.subkar{
+    margin-top: 5%;
+}
+
+.lamp {
+    margin-top: 15%;
+    margin-left: 73%;
+    margin-block-end: 10%;
+}
+
+/*Quarto Container Calculator*/
+.calc {
+    background-color:white;
+    color:hsl(234, 12%, 34%);
+    font-size: 15px;
+    padding-left: 9%;
+    padding-top: 5%;
+    margin-block-end: 10%;
+}
+
+.subcalc {
+    margin-top: 5%;
+}
+
+.calculadora {
+    margin-top: 15%;
+    margin-left: 73%;
+    margin-block-end: 10%;
+}
