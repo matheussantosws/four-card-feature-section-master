@@ -130,7 +130,7 @@
     }
 }
 
-@media (min-width:1440px) {
+@media (min-width:1024px) {
     .card {
         margin-top:-5%;
     }
