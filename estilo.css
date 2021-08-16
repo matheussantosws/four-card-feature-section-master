@@ -129,3 +129,29 @@
         padding: 11%;
     }
 }
+
+@media (min-width:1440px) {
+    .card {
+        margin-top:-5%;
+    }
+    .info {
+        margin-left:15%;
+        margin-right:15%;
+    }
+    .super {
+        margin-left: -8%;
+        margin-right: 65%;
+        margin-top: 40%;
+        background-color: violet;
+    }
+    .team {
+        background-color: tomato;
+        margin-left: 55%;
+        margin-top: -50%;
+    }
+    .kar {
+        background-color: teal;
+        margin-left: 55%;
+        margin-top:20%;
+    }
+}
