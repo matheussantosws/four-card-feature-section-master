@@ -138,16 +138,18 @@
         margin-left:15%;
         margin-right:15%;
     }
-    .super {
-        margin-left: -8%;
-        margin-right: 65%;
-        margin-top: 40%;
-        background-color: violet;
+    .supercont {
+        background-color: blue;
+        display: flex;
+        margin-left: -10%;
     }
-    .team {
-        background-color: tomato;
-        margin-left: 55%;
-        margin-top: -50%;
+    .super {
+        padding: 3%;
+        background-color: aqua;
+    }
+    
+    .teamcont {
+        display: flex;
     }
     .kar {
         background-color: teal;
